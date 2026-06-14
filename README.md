@@ -12,8 +12,8 @@ A machine learning project that predicts house sale prices using the Ames Housin
 ## Key findings 
 
 - Overall quality rating is the single strongest predictor of house price
-- Total sqaure footaage (engineered feature combining all floors) outperformed any individual floor measurement
-- Gradient Boosting significantly outperformed Linear Regression, confirming that hose price relationships are non-linear
+- Total sqaure footage (engineered feature combining all floors) outperformed any individual floor measurement
+- Gradient Boosting significantly outperformed Linear Regression, confirming that house price relationships are non-linear
 - The model predicts within ~9% of actual price on average
 
 ## Visualizations
